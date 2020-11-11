@@ -5,5 +5,3 @@ This project is a sample code to demonstrate how to use  Nasswallet Payment Gate
 **yarn**
 ###### then:
 **yarn start**
-
-You can also use npm for managing dependencies.
