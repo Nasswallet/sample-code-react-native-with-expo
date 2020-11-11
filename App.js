@@ -4,9 +4,9 @@ import axios from 'axios';
 import { WebView } from 'react-native-webview'
 
 
-const userIdentifier = "7503491464";
-const password = "Nass#2020";
-const transactionPin = "135758";
+const userIdentifier = "";
+const password = "";
+const transactionPin = "";
 
 class PaymentDemo extends Component {
     constructor(props) {
